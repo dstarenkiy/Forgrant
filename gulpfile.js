@@ -1,6 +1,5 @@
 'use strict';
-'use strict';
-'use strict';
+
 var gulp = require('gulp'),
     gp = require('gulp-load-plugins')(),
     mqpacker = require('css-mqpacker'),
