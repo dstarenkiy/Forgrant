@@ -1,0 +1,9 @@
+@import 'variables';
+* {
+	box-sizing: border-box;
+}
+body {
+	font: $base-weight $base-size + 4px "Open Sans";
+	line-height: 18px;
+	color: $black;		
+}
